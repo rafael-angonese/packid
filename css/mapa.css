@@ -1,0 +1,40 @@
+.estado path {
+  fill: #0094d9;
+}
+  
+.estado path:hover {
+	fill: #003399 !important;
+}
+
+.estadonothing path {
+  fill: #FF92A8;
+}
+  
+.estadonothing path:hover {
+	fill: #FFA5B7 !important;
+}
+
+#svg-map .circle {
+	fill: #000000;
+}
+  
+#svg-map a:hover .circle {
+	fill: #726C6B !important;
+	cursor: pointer;
+}
+
+#svg-map text {
+	fill: #fff;
+	font: 12px Arial-BoldMT, sans-serif;
+	cursor: pointer;
+}
+  
+#svg-map a {
+	text-decoration: none;
+}
+  
+#svg-map a:hover {
+	cursor: pointer;
+	text-decoration: none;
+}
+  

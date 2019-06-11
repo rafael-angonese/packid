@@ -1,0 +1,18 @@
+table {
+    overflow-x: scroll;
+    max-height: 450px;
+}
+
+td, th {  
+    width: 1%;
+}
+
+.table-fixed thead {
+    width: 97%;
+}
+
+.table-fixed tbody {
+    height: 150px;
+    overflow-y: scroll;
+    width: 100%;
+}
